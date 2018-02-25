@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I am Amogha.H.A. I'm a undergraduate at IIT Bombay.I am interested in many things but pursue only a few to give them the best I can.Chess is one of my main interests along with Mathematics and coding.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'll be posting blogs about different topics that I'll be covering and different coding problems that I'll be solving.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[amogha@iitb.ac.in](mailto:amogha@iitb.ac.in)
